@@ -7,6 +7,7 @@ from rasa_sdk.events import EventType, SlotSet
 import json
 
 # Test comment
+# Test comment2
 
 # Open drink json and convert to dict
 with open("drinks.json", "r") as f:
